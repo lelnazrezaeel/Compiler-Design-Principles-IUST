@@ -1,0 +1,15 @@
+T__0=1
+T__1=2
+T__2=3
+Se_keyword=4
+Se_description=5
+S_keyword=6
+S_description=7
+C_keyword=8
+C_description=9
+STRING=10
+'"'=1
+';'=2
+'='=3
+'server'=4
+'Initial Catalog'=8
