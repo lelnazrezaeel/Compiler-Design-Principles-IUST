@@ -21,11 +21,11 @@ My solutions to IUST's Compiler Design Principles, Fall 2022, Dr. Parsa.
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/test-passed.png" alt="test-passed"/> Midterms
 ### Mid-992
 - Description: Provides last year's midterm questions along with a sample answer.
-- [Link to Mid-992](https://github.com/lelnazrezaeel/Compiler-Design-Principles-IUST/tree/main/Midterm/Mid-992)
+- [Link to Mid-992](https://github.com/lelnazrezaeel/Compiler-Design-Principles-IUST/tree/main/Midterms/Mid-992)
 
 ### Mid-4002
 - Description: Contains midterm exam questions for this semester and my correct answers.
-- [Link to Mid-4002](https://github.com/lelnazrezaeel/Compiler-Design-Principles-IUST/tree/main/Midterm/Mid-4002)
+- [Link to Mid-4002](https://github.com/lelnazrezaeel/Compiler-Design-Principles-IUST/tree/main/Midterms/Mid-4002)
 
 ## <img width="20" height="20" src="https://img.icons8.com/external-smashingstocks-mixed-smashing-stocks/68/41b883/external-Notes-work-from-home-smashingstocks-mixed-smashing-stocks-2.png" alt="Notes"/> Notes
 - Description: Lecture slides provided by the professor and my handwritten notes.
